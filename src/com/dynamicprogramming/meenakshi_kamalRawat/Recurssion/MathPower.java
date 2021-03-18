@@ -11,6 +11,10 @@ public class MathPower {
             return x;
         }
 
+        if(x==1){
+            return 1;
+        }
+
         return x*power(x,n-1);
     }
 
