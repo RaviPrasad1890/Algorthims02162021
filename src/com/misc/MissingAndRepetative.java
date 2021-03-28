@@ -1,8 +1,6 @@
 package com.misc;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 /*
 Given an array of size n, find list of all missing or repetitive numbers
